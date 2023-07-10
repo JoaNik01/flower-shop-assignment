@@ -1,0 +1,147 @@
+/* header style */
+.head-content {
+    display: flex;
+    width: 100%;
+    height: 800px;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-around;
+    align-items: center;
+}
+
+.description {
+    width: 700px;
+    padding-left: 240px;
+}
+
+.title-pic {
+    width: 635px;
+    height: 800px;
+
+    /* margin-right: 240px; */
+}
+
+
+.header-text {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    justify-content: space-around;
+
+}
+
+
+.paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+
+.title-pic {
+    width: 635px;
+    height: 800px;
+    padding-right: 240px;
+
+}
+
+.pink-button {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 20px 40px 20px 40px;
+    border: none;
+}
+
+/* main style */
+.featured-head {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 180px;
+
+}
+
+.featured-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.featured-pic {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.feature2-text {
+    margin-top: 70px;
+}
+
+.feature1 {
+    width: 310px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 75px 0px 75px;
+    margin-right: 25px;
+
+}
+
+.feature2 {
+    width: 370px;
+    height: 370px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 120px 45px 50px 45px;
+    margin-right: 25px;
+}
+
+.feature3 {
+    width: 314px;
+    height: 471px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 65px 75px 0px 75px;
+}
+
+/* Service style */
+.services {
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 300px auto;
+}
+
+.service-style {
+    padding: 80px 100px;
+}
+
+.service-class {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
