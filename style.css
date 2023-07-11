@@ -70,6 +70,19 @@ body {
     padding: 20px 40px 20px 40px;
     border: none;
 }
+.message-button{
+    border-radius: 8px;
+    background: #47282f;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 20px 40px 20px 40px;
+    border: none;
+
+}
 
 /* main style */
 .featured-head {
@@ -226,6 +239,67 @@ body {
 
 .insta1 {
     margin-left: 20px;
+}
+
+/* order style */
+.order {
+    text-align: center;
+    background: rgba(71, 125, 17, 0.15);
+    width: 100%;
+    height: 750px;
+    }
+.order-head{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+line-height: normal;
+margin-top: 250px;
+padding-top: 45px;
+}
+.order-info {
+margin-top: 50px;
+}
+.order-input{
+    width: 700px;
+    height: 60px;
+    border-style: none;
+    border-radius: 8px;
+    /* padding-left: 8px;
+    margin-right: 8px; */
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.order-name {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 5px;
+    margin: 50px;
+    padding-left: 5px;
+}
+.order-email{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 5px;
+    margin: 50px;
+    padding: 10px;
+}
+.order-cell{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 5px;
+    /* margin: 50px; */
+    margin-left: 5px;
+}
+.order-address{color: rgba(39, 39, 39, 0.80);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 5px;
+    margin: 50px;
+
 }
 
 /* Coupon section style */
