@@ -209,7 +209,17 @@
     padding-top: 30px;
     padding-bottom: 120px;
 }
-
 .insta1 {
     margin-left: 20px;
+}
+.coupon{
+    align-items: center;
+}
+.coupon-bg{
+    position: relative;
+    display: inline-block;
+    align-items: center;
+}
+.coupon-head{
+    position: absolute;
 }
